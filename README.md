@@ -46,7 +46,7 @@ Result: Replaced the original object with a pen using targeted inpainting while 
 Anatomically Correct Hand — All Fingers and Knuckles Intact
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/26f2302b-1098-4a08-bb30-c8357a1a4f4d"
+  <img src="https://github.com/user-attachments/assets/d545fd6b-1098-4273-b3c0-57761c5491c5"
        alt="After SDXL Inpainting - Corrected Hand Positioning and Pen Replacement"
        width="80%">
 </p>
